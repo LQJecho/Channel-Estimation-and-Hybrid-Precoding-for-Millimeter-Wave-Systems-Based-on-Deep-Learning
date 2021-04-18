@@ -13,4 +13,4 @@
 * Run _"matlab/gen_traindata.m"_ to generate training data set
 * Set _"python/main.py"_ to training mode (train_flag=1), you can retrain the corresponding neural network model
   
-**Pay attention to the correspondence between the _saved path_ and the _load path_**
+**Pay attention to the correspondence between the _saved data path_ and the _load data path_**
