@@ -2,7 +2,7 @@
 
 1. Put the _"matlab"_ and _"python"_ folders in a root directory
 
-2. The _"matlab"_ folder contains traditional HBF algorithm, channel estimation algorithm and data generation code. The _"python"_ file contains the defined neural network models and the trained models.
+2. The _"matlab"_ folder contains traditional HBF algorithm, channel estimation algorithm and data generation code. The _"python"_ folder contains the defined neural network models and the trained models.
 
 3. If you want to test the HBF-Net and CE-HBF-Net directly, you can
 * Run _"matlab/channel_gen.m"_ to generate test channel. Run _"matlab/gen_testdata.m"_ to generate test dataset
